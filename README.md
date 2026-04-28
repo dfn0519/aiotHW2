@@ -1,3 +1,5 @@
+live demo: https://aiothw2-sg3jeeuztnacfccjsepsyj.streamlit.app/
+
 # 🌦️ 台灣區域農業氣象預報系統
 
 本專案是一個完整的 Python 應用程式，旨在從 **中央氣象署 (CWA) API** 獲取台灣六大區域（北部、中部、南部、東北部、東部、東南部）的 7 天農業氣象預報，並透過 **Streamlit** 建立互動式網頁儀表板，提供地圖可視化與氣溫趨勢分析。
